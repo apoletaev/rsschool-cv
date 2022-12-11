@@ -19,7 +19,7 @@ function multiply(a, b){
 ```
 
 ### Education
-- Self-study
+- Online courses
 - [learn.javascript.ru](http://learn.javascript.ru)
 - [w3schools.com](http://www.w3schools.com/)
  
